@@ -1,0 +1,6 @@
+{
+  "name": "Zepp Reader",
+  "description": "Download Zepp Reader APK for Android. Fast, minimalist companion app for reading books and managing your library on Zepp OS devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
